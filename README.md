@@ -1,4 +1,4 @@
-Title: Walmart Customer Purchase Analysis: Unveiling Consumer Behavior Insights
+Title: Walmart Customer Purchase Analysis: Unveiling Consumer Behavior Insights  
 
 Description:
 
